@@ -2,7 +2,7 @@ import PropTypes from "prop-types";
 import styles from "./Card.module.css";
 
 const Card = ({ title, content, description }) => (
-  <div className={styles.card1}>
+  <div className={styles.card}>
     <a href="">
         <button className={styles.button1}></button>
       </a>
@@ -12,7 +12,7 @@ const Card = ({ title, content, description }) => (
   </div>,
 
 
-<div className={styles.card2}>
+<div className={styles.card}>
 <a href="https://croma-home.netlify.app">
     <button className={styles.button2}/> </a>
   
@@ -23,7 +23,7 @@ const Card = ({ title, content, description }) => (
 </div> ,
 
 
-<div className={styles.card3}>
+<div className={styles.card}>
 <a href="https://consistencyservices.netlify.app/">
     <button className={styles.button3}></button>
   </a>
