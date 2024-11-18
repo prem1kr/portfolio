@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Social Media",
+    "organisation": "Ui clone",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Gmail,Youtube", "using Frontend Html,Css,JS"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Ecomerce site",
+    "organisation": "Croma",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Croma ui clone", "using Frontend Html,Css,JS"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "GYM site",
+    "organisation": "Fitness Blender",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Fitness blender clone",
+      "using Frontend React"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
